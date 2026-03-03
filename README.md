@@ -838,7 +838,7 @@ footer span { color: var(--rouge); }
 
 <script>
 // ─── CONFIG ── À remplir avec votre URL Apps Script ───────────────────
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyki-VlciyQmjkEu3y267lAs93IpVEjL8zRxO3niDmGTZWK4AKSFrDQuta0iQZqp8IG/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzz7PwOUGTYDgmzx4VSVP7HJsKoDEmGtIDf7kwZc6S74tNTNb4nqiy-HpW0kb2IlN2b/exec";
 // ─────────────────────────────────────────────────────────────────────
 
 let selectedTaille = null;
